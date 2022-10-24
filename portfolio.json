@@ -1,0 +1,724 @@
+{
+  "about": {
+    "total": 1,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da92",
+    "title": "About Me",
+    "collection": "about",
+    "data": {
+      "_id": "62a7212672f164c0f1ef93b1",
+      "title": "Hello! My name is Cristine Grace.",
+      "subtitle": "You can call me Tine for short.",
+      "description": "<p>I am a motivated web developer based in Metro Manila, Philippines with 4+ years experience. I spent my inital 2 years as a fullstack developer building websites from planning, preparation, testing, and execution. I do most backend and database-related activities during those years.</p><p>A couple of years back, I became a front-end developer. As a front-end developer, I worked closely with the backend team for API integration and UI/UX team for design to code translation.</p>",
+      "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/me.jpg"
+    }
+  },
+  "contact": {
+    "total": 1,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da9b",
+    "title": "Let's Talk",
+    "collection": "contact",
+    "data": {
+      "_id": "62a71f0972f164c0f1eead07",
+      "btn_submit": "Submit",
+      "btn_reset": "Clear"
+    }
+  },
+  "designs": {
+    "total": 4,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da99",
+    "title": "Designs",
+    "collection": "designs",
+    "data": [
+      {
+        "_id": "62a74470679cd32b33927fc9",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/designs/tic-tac-toe.png",
+        "name": "Tic Tac Toe",
+        "description": "\"Tic-tac-toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os.\" <br> - <em>thesprucecrafts.com</em>",
+        "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fsx5Noe2fUQX99OxfRphSTY%2FProjects%3Fnode-id%3D8%253A469",
+        "status": "In Progress",
+        "techs": [
+          {
+            "name": "Figma",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/figma.png"
+          },
+          {
+            "name": "Target Implementation: ReactJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/react.png"
+          }
+        ]
+      },
+      {
+        "_id": "62a74470679cd32b33927fcb",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/designs/portfolio.png",
+        "name": "My Portfolio",
+        "description": "My online portfolio inspired by Friends TV Series.",
+        "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEE4KLczP0OIlUYxbtjL4bD%2FPortfolio%3Fnode-id%3D6%253A522",
+        "status": "In Progress",
+        "techs": [
+          {
+            "name": "Figma",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/figma.png"
+          },
+          {
+            "name": "Target Implementation: VueJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/vue.png"
+          }
+        ]
+      },
+      {
+        "_id": "62a74470679cd32b33927fca",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/designs/questionnaire.png",
+        "name": "Questionnaire",
+        "description": "Collection of questions which can help you prepare for exams, interview, etc",
+        "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fsx5Noe2fUQX99OxfRphSTY%2FProjects%3Fnode-id%3D0%253A1",
+        "status": "In Progress",
+        "techs": [
+          {
+            "name": "Figma",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/figma.png"
+          },
+          {
+            "name": "Target Implementation: NuxtJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/nuxt-black-text.png"
+          }
+        ]
+      },
+      {
+        "_id": "6350faf8e80b030cabc22649",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/my-travels.png",
+        "name": "My Travels",
+        "description": "",
+        "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F2qr8TW2scXXVPP1lYa5fKu%2FTravels%3Fnode-id%3D0%253A1",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "Figma",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/figma.png"
+          },
+          {
+            "name": "ReactJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/react.png"
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "total": 1,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da95",
+    "title": "Education",
+    "collection": "education",
+    "data": {
+      "_id": "62a71dee72f164c0f1ee31df",
+      "school": "University of the Philippines - Manila",
+      "course": "BS Computer Science",
+      "start_date": "2012",
+      "end_date": "2017",
+      "link": "https://www.upm.edu.ph/",
+      "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/upm.png",
+      "location": "Padre Faura St., Ermita, Manila"
+    }
+  },
+  "experience": {
+    "total": 4,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da97",
+    "title": "Experience",
+    "collection": "experience",
+    "data": [
+      {
+        "_id": "62a748061af85c70ea9cf288",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/experience/yondu.png",
+        "title": "SOFTWARE ENGINEER (FRONT-END DEVELOPER)",
+        "company": "Yondu Inc.",
+        "location": "Lower Penthouse, Panorama Building 34th Street cor. Lane A Bonifacio Global City, Taguig City, 1634",
+        "start_date": "Dec 2019",
+        "end_date": "Feb 2022",
+        "href": "https://www.yondu.com/",
+        "tasks": [
+          "Created, updated, and maintained frontend of web portals",
+          "Converted web designs to actual working websites",
+          "Enhanced processes for development"
+        ],
+        "show": false
+      },
+      {
+        "_id": "62a748061af85c70ea9cf289",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/experience/summit.svg",
+        "title": "WEB DEVELOPER",
+        "company": "Summit Media Publishing Co., Inc",
+        "location": "7F Robinsons Cybergate Tower 3, Robinsons Pioneer Complex, Pioneer St",
+        "start_date": "April 2019",
+        "end_date": "Oct 2019",
+        "href": "https://www.summitmedia.com.ph/",
+        "tasks": [
+          "Participated in issue resolution and feature implementations",
+          "Optimized websites through migration of assets to CDN and lazy loading of images and iframes",
+          "Documented setting up of websites in local and production environment"
+        ],
+        "show": false
+      },
+      {
+        "_id": "62a748061af85c70ea9cf28a",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/experience/unilab.png",
+        "title": "PHP DEVELOPER",
+        "company": "Deployed at United Laboratories (UNILAB) under Global Quest Consulting Group",
+        "location": "66 United Street, Mandaluyong City",
+        "start_date": "Oct 2017",
+        "end_date": "March 2019",
+        "href": "https://www.unilab.com.ph/",
+        "tasks": [
+          "Ensured mobile responsiveness of e-commerce websites",
+          "Maintained, optimized, and enhanced a centralized customer management system containing thousands of users across hundreds of brands",
+          "Developed backend processes of a customer registration system"
+        ],
+        "show": false
+      },
+      {
+        "_id": "62a748061af85c70ea9cf28c",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/experience/accenture.png",
+        "title": "INTERN",
+        "company": "Accenture Philippines",
+        "location": "Gobal One Center, Eastwood Libis, Quezon City",
+        "start_date": "June 2015",
+        "end_date": "July 2015",
+        "href": "https://www.accenture.com/ph-en",
+        "tasks": [
+          "Developed detailed design/technical specifications",
+          "Participated in process improvement efforts",
+          "Participated in problem-solving and root cause analysis",
+          "Identified potential issues and changes in the requests and escalate them"
+        ],
+        "show": false
+      }
+    ]
+  },
+  "home": {
+    "total": 1,
+    "total_pages": 1,
+    "data": {
+      "_id": "62a70dc172f164c0f1e6ddbb",
+      "description": {
+        "title": "Cristine Grace",
+        "subtitle": "I'm a Front-End Developer"
+      },
+      "callout_button": "Contact Me",
+      "bg": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/home.jpeg"
+    }
+  },
+  "menus": {
+    "total": 5,
+    "total_pages": 1,
+    "data": [
+      {
+        "_id": "62af31f3f6929941436f7dab",
+        "text": "Home",
+        "title": "",
+        "icon": "mdi-home",
+        "to": "/",
+        "order": 1,
+        "show": true
+      },
+      {
+        "_id": "62af31f3f6929941436f7dac",
+        "text": "About",
+        "title": "About Me",
+        "icon": "mdi-account",
+        "to": "about",
+        "order": 2,
+        "show": true
+      },
+      {
+        "_id": "62af31f3f6929941436f7dad",
+        "text": "Experience",
+        "title": "Education and Experience",
+        "icon": "mdi-briefcase",
+        "to": "experience",
+        "order": 3,
+        "show": true
+      },
+      {
+        "_id": "62af31f3f6929941436f7dae",
+        "text": "Works",
+        "title": "My Works",
+        "icon": "mdi-file",
+        "to": "works",
+        "order": 4,
+        "show": true
+      },
+      {
+        "_id": "62af31f3f6929941436f7daf",
+        "text": "Contact",
+        "title": "Contact Me",
+        "icon": "mdi-email",
+        "to": "contact",
+        "order": 5,
+        "show": true
+      }
+    ]
+  },
+  "photos": {
+    "total": 6,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da9a",
+    "title": "Photos",
+    "collection": "photos",
+    "data": [
+      {
+        "_id": "62a7483c1af85c70ea9cf299",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/photos/venice.png",
+        "name": "Venice Grand Canal",
+        "description": ""
+      },
+      {
+        "_id": "62a7483c1af85c70ea9cf298",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/photos/buildings.jpg",
+        "name": "Buildings of Manila",
+        "description": ""
+      },
+      {
+        "_id": "62a7483c1af85c70ea9cf29a",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/photos/sea.png",
+        "name": "Dingalan, Aurora",
+        "description": ""
+      },
+      {
+        "_id": "62a7483c1af85c70ea9cf29d",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/photos/flowers.jpg",
+        "name": "Flowers",
+        "description": ""
+      },
+      {
+        "_id": "62a7483c1af85c70ea9cf29b",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/photos/dingalan.png",
+        "name": "Dingalan, Aurora",
+        "description": ""
+      },
+      {
+        "_id": "62a7483c1af85c70ea9cf29c",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/photos/ulap.png",
+        "name": "Mt. Ulap",
+        "description": ""
+      }
+    ]
+  },
+  "projects": {
+    "total": 7,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da98",
+    "title": "Projects",
+    "collection": "projects",
+    "data": [
+      {
+        "_id": "62b010cc1b8fe3c192ecfc46",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/dears.png",
+        "name": "Drug Events Archiving and Reporting System (DEARS)",
+        "description": "Drug Events Archive and Reporting System (DEARS) is a database designed to promote pharmacovigilance in local community pharmacies by tracking reports of its consumers. Pharmacovigilance relates to the detection, assessment, understanding and prevention of adverse effects or events and/or any drug-related problem. Some functionalities of the system include registration, signin, creation of report, creation of accounts, managing users, viewing of archives and sending report to FDA.",
+        "composition": "College project - Group of 4",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "PHP",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "MySQL",
+            "img": ""
+          },
+          {
+            "name": "AJAX",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/ajax.png"
+          },
+          {
+            "name": "Bootstrap",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/bootstrap.png"
+          },
+          {
+            "name": "HTML",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "CSS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/css.png"
+          },
+          {
+            "name": "JQuery",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/jquery.png"
+          }
+        ]
+      },
+      {
+        "_id": "62b010cc1b8fe3c192ecfc47",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/bananaqueue.png",
+        "name": "Bananaqueue Dating Site",
+        "description": "A website written in PHP that lets you choose and schedule a date. A PDF version of the information about the schedule of the date and details of transaction is also delivered to the customer’s e‐mail address once the transaction is done.",
+        "composition": "College project - Group of 3",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "PHP",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "MySQL",
+            "img": ""
+          },
+          {
+            "name": "HTML",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "CSS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/css.png"
+          },
+          {
+            "name": "JavaScript",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/js.png"
+          }
+        ]
+      },
+      {
+        "_id": "62b010cc1b8fe3c192ecfc48",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/upm-wants.png",
+        "name": "University of the Philippines - Web-based Alumni Networking and Tracking System (UPM WANTS)",
+        "description": "UPM WANTS is a website implemented for UP Manila Office of Alumni Relations. It is a common platform for UP Manila graduates which allows them to connect and establish networks with their peers and alumni chapters, follow different events, view pledges for an event and look for job and donation trends.",
+        "composition": "Individual",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "CodeIgniter",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "PHP",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "MySQL",
+            "img": ""
+          },
+          {
+            "name": "AJAX",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/ajax.png"
+          },
+          {
+            "name": "Bootstrap",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/bootstrap.png"
+          },
+          {
+            "name": "HTML",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png"
+          },
+          {
+            "name": "CSS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/css.png"
+          },
+          {
+            "name": "JQuery",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/jquery.png"
+          }
+        ]
+      },
+      {
+        "_id": "62b010cc1b8fe3c192ecfc49",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/dark-planet.png",
+        "name": "Dark Planet",
+        "description": "An implementation of Damir Basic's Simple portfolio [Template] (<a href='https://www.figma.com/community/file/1109160961935802705' target='_blank'>https://www.figma.com/community/file/1109160961935802705</a>)",
+        "composition": "Individual",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "ReactJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/react.png"
+          }
+        ],
+        "link": "http://dark-planet.s3-website-ap-southeast-1.amazonaws.com"
+      },
+      {
+        "_id": "62b010cc1b8fe3c192ecfc4a",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/my-travels.png",
+        "name": "My Travels",
+        "description": "",
+        "composition": "Individual",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "ReactJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/react.png"
+          }
+        ],
+        "link": "http://my-travels.s3-website-ap-southeast-1.amazonaws.com"
+      },
+      {
+        "_id": "6350fd8be80b030cabc38149",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/product-page.png",
+        "name": "Sample Product Page",
+        "description": "",
+        "link": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/clothing-shop/index.html#/",
+        "composition": "Individual",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "NuxtJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/nuxt-black-text.png"
+          }
+        ]
+      },
+      {
+        "_id": "6350fd8be80b030cabc3814a",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/todo-light.png",
+        "name": "To Do App",
+        "description": "A challenge implementation of <a href='https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW' target='_blank'>https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW</a> <br>Users can:<ul><li>View the optimal layout for the app depending on their device's screen size</li><li>See hover states for all interactive elements on the page</li><li>Add new todos to the list</li><li>Mark todos as complete</li><li>Delete todos from the list</li><li>Filter by all/active/complete todos</li><li>Clear all completed todos</li><li>Toggle light and dark mode</li></ul>",
+        "link": "",
+        "composition": "Individual",
+        "status": "Done",
+        "techs": [
+          {
+            "name": "NextJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/next.png"
+          }
+        ]
+      }
+    ]
+  },
+  "skills_new": {
+    "total": 3,
+    "total_pages": 1,
+    "data": [
+      {
+        "_id": "62a73b5472f164c0f1fb55e4",
+        "name": "NodeJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/nodejs.png",
+        "href": "https://nodejs.org/en/",
+        "order": 1
+      },
+      {
+        "_id": "62a73b5472f164c0f1fb55e3",
+        "name": "ReactJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/react.png",
+        "href": "https://reactjs.org/",
+        "order": 2
+      },
+      {
+        "_id": "6350fe1de80b030cabc3d1a5",
+        "name": "NextJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/next.png",
+        "href": "https://nextjs.org/",
+        "order": 3
+      }
+    ]
+  },
+  "skills": {
+    "total": 15,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da93",
+    "title": "Technologies I Use",
+    "collection": "skills",
+    "data": [
+      {
+        "_id": "62a73b7172f164c0f1fb6413",
+        "name": "HTML5",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/html.png",
+        "href": "https://www.w3schools.com/html/",
+        "order": 1
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb6414",
+        "name": "JavaScript",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/js.png",
+        "href": "https://www.w3schools.com/js/",
+        "order": 2
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb6415",
+        "name": "CSS3",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/css.png",
+        "href": "https://www.w3schools.com/css/",
+        "order": 3
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb6416",
+        "name": "AWS S3",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/s3.png",
+        "href": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "order": 4
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb6417",
+        "name": "AWS CloudFront",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/cloudfront.png",
+        "href": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html",
+        "order": 5
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb6418",
+        "name": "Git",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/git.png",
+        "href": "https://git-scm.com/",
+        "order": 6
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb6419",
+        "name": "AJAX",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/ajax.png",
+        "href": "https://www.w3schools.com/xml/ajax_intro.asp",
+        "order": 7
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb641a",
+        "name": "JQuery",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/jquery.png",
+        "href": "https://jquery.com/",
+        "order": 8
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb641c",
+        "name": "Bootstrap",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/bootstrap.png",
+        "href": "https://getbootstrap.com/",
+        "order": 9
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb641e",
+        "name": "Foundation Framework",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/zurb-foundation.png",
+        "href": "https://get.foundation/",
+        "order": 10
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb641d",
+        "name": "NuxtJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/nuxt-black-text.png",
+        "href": "https://nuxtjs.org/",
+        "order": 11
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb641b",
+        "name": "VueJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/vue.png",
+        "href": "https://vuejs.org/",
+        "order": 12
+      },
+      {
+        "_id": "63510a46e80b030cabca2345",
+        "name": "NextJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/next.png",
+        "href": "https://nextjs.org/",
+        "order": 13
+      },
+      {
+        "_id": "62a73b5472f164c0f1fb55e3",
+        "name": "ReactJS",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/react.png",
+        "href": "https://reactjs.org/",
+        "order": 14
+      },
+      {
+        "_id": "62a73b7172f164c0f1fb641f",
+        "name": "Figma",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/figma.png",
+        "href": "https://www.figma.com/",
+        "order": 15
+      }
+    ]
+  },
+  "social_links": {
+    "total": 3,
+    "total_pages": 1,
+    "data": [
+      {
+        "_id": "62a749c31af85c70ea9cf2c9",
+        "name": "Linkedin",
+        "icon": "mdi-linkedin",
+        "order": 1,
+        "link": "https://www.linkedin.com/in/cristine-grace-c-b40990b8"
+      },
+      {
+        "_id": "62a749c31af85c70ea9cf2ca",
+        "name": "GMail",
+        "link": "mailto:crstngracebusiness@gmail.com",
+        "icon": "mdi-gmail",
+        "order": 2
+      },
+      {
+        "_id": "62a749c31af85c70ea9cf2cb",
+        "name": "Skype",
+        "link": "https://join.skype.com/invite/xftMPo1wmPq3",
+        "icon": "mdi-skype",
+        "order": 3
+      }
+    ]
+  },
+  "socials": {
+    "total": 1,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da9c",
+    "title": "Ways To Contact Me",
+    "collection": "socials",
+    "data": {
+      "_id": "62a749d21af85c70ea9cf2ce",
+      "description": "<p>Whether it be a suggestion/compliments about my portfolio or a job offer, I would love to hear from you!</p><p>You may directly message me through <a href=\"https://www.linkedin.com/in/cristine-grace-ca%C3%B1edo-b40990b8/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"orange--text link\">LinkedIn</a> or message me via <a href=\"mailto:crstngracebusiness@gmail.com\" rel=\"noopener noreferrer\" class=\"orange--text link\">email.</a></p>"
+    }
+  },
+  "trainings": {
+    "total": 6,
+    "total_pages": 1,
+    "_id": "62a733a872f164c0f1f7da96",
+    "title": "Trainings & Certifications",
+    "collection": "trainings",
+    "data": [
+      {
+        "_id": "62af38bb22109051240e5973",
+        "name": "AWS Technical Essentials",
+        "source": "by Yondu via AWS Partner Network",
+        "start_date": "Sep 2021 ",
+        "end_date": "",
+        "order": 1
+      },
+      {
+        "_id": "62af38bb22109051240e5972",
+        "name": "Masterclass on API: Development and integration",
+        "source": "by Globe myBusiness Academy",
+        "start_date": "May 2021",
+        "end_date": "",
+        "order": 2
+      },
+      {
+        "_id": "62af38bb22109051240e5971",
+        "name": "AWS Technical Professional (Digital)",
+        "source": "by Yondu via AWS Partner Network",
+        "start_date": "Mar 2020",
+        "end_date": "",
+        "order": 3
+      },
+      {
+        "_id": "62af38bb22109051240e5970",
+        "name": "Adobe Analytics: Dynamic Tag Management",
+        "source": "by UNILAB in partnership w/ Adobe",
+        "start_date": "Feb 2018",
+        "end_date": "",
+        "order": 4
+      },
+      {
+        "_id": "62af38bb22109051240e596f",
+        "name": "Acunetix v10 User Test",
+        "source": "via Acunetix Portal",
+        "start_date": "Jan 2017",
+        "end_date": "",
+        "order": 5
+      },
+      {
+        "_id": "62af38bb22109051240e596e",
+        "name": "NTCHC@19: Bringing Digital Health Innovations to Scale and Beyond",
+        "source": "by National Telehealth Center",
+        "start_date": "July 2017",
+        "end_date": "",
+        "order": 6
+      }
+    ]
+  }
+}
