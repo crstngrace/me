@@ -26,7 +26,7 @@
     }
   },
   "designs": {
-    "total": 4,
+    "total": 6,
     "total_pages": 1,
     "_id": "62a733a872f164c0f1f7da99",
     "title": "Designs",
@@ -90,7 +90,7 @@
         "_id": "6350faf8e80b030cabc22649",
         "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/my-travels.png",
         "name": "My Travels",
-        "description": "",
+        "description": "Simple page with parallax effect",
         "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F2qr8TW2scXXVPP1lYa5fKu%2FTravels%3Fnode-id%3D0%253A1",
         "status": "Done",
         "techs": [
@@ -101,6 +101,42 @@
           {
             "name": "ReactJS",
             "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/skills/react.png"
+          }
+        ]
+      },
+      {
+        "_id": "63732d57e80b030cabef5fac",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/designs/online-shop-1.png",
+        "name": "Online Shop",
+        "description": "",
+        "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtJrYifyMnIFYT1f3D9PZCB%2FMEURI%3Fnode-id%3D0%253A1%26t%3DijNOx5wfuYdQG9c5-1",
+        "status": "In Progress",
+        "techs": [
+          {
+            "name": "Figma",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/figma.png"
+          },
+          {
+            "name": "Target Implementation: ReactJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/react.png"
+          }
+        ]
+      },
+      {
+        "_id": "63732d7fe80b030cabef70cb",
+        "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/designs/online-shop-2.png",
+        "name": "Online Shop",
+        "description": "",
+        "source": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtJrYifyMnIFYT1f3D9PZCB%2FMEURI%3Fnode-id%3D53%253A171%26t%3DijNOx5wfuYdQG9c5-1",
+        "status": "In Progress",
+        "techs": [
+          {
+            "name": "Figma",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/figma.png"
+          },
+          {
+            "name": "Target Implementation: ReactJS",
+            "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/d-05134426bcd175050b08193c02f14ccdafcca088/assets/img/skills/react.png"
           }
         ]
       }
@@ -442,7 +478,7 @@
         "_id": "62b010cc1b8fe3c192ecfc4a",
         "img": "https://crstngrae.s3.ap-southeast-1.amazonaws.com/portfolio/assets/img/works/projects/my-travels.png",
         "name": "My Travels",
-        "description": "",
+        "description": "Simple page with parallax effect",
         "composition": "Individual",
         "status": "Done",
         "techs": [
